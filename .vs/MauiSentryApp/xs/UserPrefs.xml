@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{AD6D0DCE-26F3-4085-9B49-A0A62B6677FF}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MauiSentryApp FirstBuild="True" PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../.nuget/packages/communitytoolkit.maui.markup/1.0.0/ReadMe.txt">
+    <Files>
+      <File FileName="MainPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="MainPage.xaml" Line="1" Column="1" />
+      <File FileName="../../../.nuget/packages/communitytoolkit.maui.markup/1.0.0/readme.txt" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MauiSentryApp" expanded="True" selected="True">
+            <Node name="MauiSentryApp" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

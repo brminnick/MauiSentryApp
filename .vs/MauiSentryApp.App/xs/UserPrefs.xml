@@ -1,0 +1,4 @@
+﻿<Properties StartupConfiguration="{AD6D0DCE-26F3-4085-9B49-A0A62B6677FF}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MauiSentryApp FirstBuild="True" PreferredExecutionTarget="MyAppleMacCatalystID" />
+</Properties>
